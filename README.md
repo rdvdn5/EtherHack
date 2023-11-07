@@ -1,4 +1,5 @@
 Wi-Fi Handshake Capture and Cracking Tool
+
 This application is designed for educational purposes to demonstrate the process of capturing Wi-Fi handshakes and attempting to crack them using a wordlist. It automates the detection and processing of wireless networks and handles handshake capturing and password cracking.
 
 Prerequisites
